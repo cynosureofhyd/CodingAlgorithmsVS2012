@@ -12,5 +12,11 @@ namespace CodingInterviewProblems
         {
 
         }
+
+        public void TestSorting()
+        {
+            var randomarray = RandomArray.CreateRandomArrayWithUpperLimit(10, 20);
+
+        }
     }
 }
